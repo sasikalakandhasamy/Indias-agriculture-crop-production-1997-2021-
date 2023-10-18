@@ -4,3 +4,4 @@ dashboard 2-https://public.tableau.com/views/dashboard2_16976172695580/Dashboard
 dashboard 3-https://public.tableau.com/views/dashboard3_16976174191060/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 story 1-https://public.tableau.com/views/stroy1_16976175392040/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 story 2-https://public.tableau.com/views/stroy2_16976176781450/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+video : https://drive.google.com/file/d/1RuPNC0t9OlMqi9fCQRNhpn-G5q-V0DoW/view?usp=drivesdk
